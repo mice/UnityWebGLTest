@@ -1,0 +1,12 @@
+/*.csproj
+/*.sln
+/.vs
+/Library
+/Logs
+/obj
+/Packages
+/UserSettings
+/UnityReactApp/src/Build
+/WebOutput/.vs
+/.vsconfig
+/UnityReactApp/package-lock.json
